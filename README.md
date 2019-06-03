@@ -33,17 +33,21 @@
 
 ![](https://lh4.googleusercontent.com/ETj_6YtF6bYMqbpld2Vw0BymU2pyuGvFpDaPSxBG9DlMPPTFWpqcSAXQO1qSIkK-MBwfb4qDjG0noSFQa-WlO3TPsNSZWeqEFnflpHhr5XsNcm2ogRzv0Ooak0o0dBkvgS1OX3h2)
 
+
 2.Пирог (существительное) + прилагательное (относительное) на расстоянии от -1 до 1.
 
 ![](https://lh3.googleusercontent.com/Z6hb1dRPgzO4xgf5GiQtwpd2_UJK56NVXCTk5d_MHvkPB9ag2sn-flOa4dUrh4vkDv8G41zgCaKCHC0UHzmEnn8jwTpmL4FDugEUZRp6zdz2JVpdk5AtoYWtsMDeJtVsCz1jyY-E)
+
 
 3.Пирожок (существительное) + с (предлог) + существительное в Т.п. на расстоянии от 1 до 3.
 
 ![](https://lh6.googleusercontent.com/m_dMzk0bEuNEFobNKD7KxIjnq6-FbRht_nGO19DB_PZNkUGm8taA2O4ogdpFdgnetBrujOR_sQ_mP8tJCPmtqpJVoLwfJLjKxRiGwAX-jcgbYL6DS6ITCpGb2ELQ35z2zH-BFxIi)
 
+
 4.Пирожок (существительное) + прилагательное (относительное) на расстоянии от -1 до 1.
 
 ![](https://lh4.googleusercontent.com/W15VPjpl4DIXUa7Nmbej_Tlr9GtHvfr2ghqLBxRKV308K5iCxBWnwA0F47AlcqnkIfuqZOZgitGNi92z3yCCNG0htbx3Ya_gHp8uSE8aI-G2nLMLN7fKwQiCqe-8mD9a8Zr0NSUg)
+
 
 Далее обозначим эти модели соответственно М1, М2, М3, М4.
 М1: самые популярные начинки - капуста (174 вхождения), мясо (52) и каша (32).
@@ -64,6 +68,8 @@
 С устрицами (А. Пятигорский. Древний человек в городе. 2001).
 С икрой (И. Шмелев. Человек из ресторана. 1911).
 С дерьмом (В. Пелевин. Любовь к трем цукербринам. 2014).
+
+
 
 
 
