@@ -10,7 +10,7 @@
   
 **1.	Какой ингредиент чаще всего встречается в рецептах? (Voyant tools)**
 
-![not loaded](https://psv4.userapi.com/c848024/u243953041/docs/d8/98727c176fe8/vordklaud.png?extra=3G3UFnQF96ZJ3DEP2VET7N8Jl-_JZN2VABM50ra2ZvsWaSe9a0eFbpD33XXEjouYjXurFVq9yldRqLKf2Z-VsK--tFJLdTHNB9EXzw50_S4Dj9Ri9dTMsEpZErsFsKMaa5Mn1jlex9X9G8KNtit8Z2wU)
+![not loaded](https://github.com/GuskovaAS17/project_pie/blob/master/y_fe58e631a3.jpg)
 
 [Ссылка на работу](https://voyant-tools.org/?corpus=6641927f4db02a0cba71a2f4386dcad5) 
 
